@@ -7,4 +7,5 @@
 # uniqnore all files with extensions
 !*.*
 
+# unignore all makefiles
 !*/makefile
