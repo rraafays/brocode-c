@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# unignore all dirs
+!*/
+
+# uniqnore all files with extensions
+!*.*
+
+!*/makefile
