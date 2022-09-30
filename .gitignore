@@ -9,3 +9,6 @@
 
 # unignore all makefiles
 !*/makefile
+
+# ignore all .dSYM folders
+*.dSYM/
