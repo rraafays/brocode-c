@@ -12,3 +12,6 @@
 
 # ignore all .dSYM folders
 *.dSYM/
+
+# ignore mac stuff
+.DS_Store
